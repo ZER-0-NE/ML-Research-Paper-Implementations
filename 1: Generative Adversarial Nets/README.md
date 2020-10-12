@@ -1,6 +1,6 @@
 # 1. Generative Adversarial Networks:
 
-(https://arxiv.org/pdf/1406.2661v1.pdf)[Link]
+[Link](https://arxiv.org/pdf/1406.2661v1.pdf)
 
 Abstract:
 
